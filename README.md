@@ -2,7 +2,7 @@
 
 An end-to-end mini "on-chain fraud lab" built with real Ethereum and Bitcoin data.
 
-The goal of this project is to simulate parts of a Chainalysis-style workflow:
+The goal of this project is to simulate parts of a Analysis Fraud workflow:
 - Ingest real blockchain transactions (from BigQuery) into a local data platform.
 - Define fraud-related behavioral KPIs.
 - Generate alerts per wallet.
